@@ -1,2 +1,5 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+Nurleli Yunus
+07352311083
+
+Link Yt UTS
+https://www.youtube.com/live/NmZsLECLzYg?si=7SzF-RDYAWz0EcoA
